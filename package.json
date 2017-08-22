@@ -1,9 +1,9 @@
 {
 	"name": "patternplate",
 	"dependencies": {
-		"patternplate-client": "1.5.0",
+		"patternplate-client": "1.5.0-2",
 		"patterplate-ui": "0.1.0",
-		"patternplate-server": "1.3.0-2"
+		"patternplate": "1.8.0-0"
 	},
 	"devDependencies": {
 		"lerna": "^2.0.0"
